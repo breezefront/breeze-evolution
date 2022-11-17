@@ -6,7 +6,7 @@
     "license": "OSL-3.0",
     "require": {
         "swissup/theme-frontend-breeze-blank": "^2.0.1",
-        "swissup/theme-frontend-breeze-evolution": "^2.0.0",
+        "swissup/theme-frontend-breeze-evolution": "^2.0.1",
         "swissup/module-breeze": "^2.0.0",
         "swissup/module-breeze-integrations": "^1.2.7"
     }
