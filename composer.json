@@ -2,7 +2,7 @@
     "name": "swissup/breeze-evolution",
     "description": "Breeze Evolution Theme",
     "type": "metapackage",
-    "version": "2.1.9",
+    "version": "2.2.0",
     "license": "OSL-3.0",
     "require": {
         "swissup/theme-frontend-breeze-blank": "^2.7.4",
