@@ -3,7 +3,7 @@
     "description": "Breeze Evolution Theme",
     "type": "metapackage",
     "version": "2.2.0",
-    "license": "OSL-3.0",
+    "license": "MIT",
     "require": {
         "swissup/theme-frontend-breeze-blank": "^2.7.4",
         "swissup/theme-frontend-breeze-evolution": "^2.1.9",
