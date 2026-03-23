@@ -2,12 +2,11 @@
     "name": "swissup/breeze-evolution",
     "description": "Breeze Evolution Theme",
     "type": "metapackage",
-    "version": "2.5.5",
+    "version": "3.0.0-beta.1",
     "license": "MIT",
     "require": {
-        "swissup/theme-frontend-breeze-blank": "^2.7.4",
-        "swissup/theme-frontend-breeze-evolution": "^2.1.9",
-        "swissup/module-breeze": "^2.15.0",
-        "swissup/module-breeze-integrations": "^1.3.2"
+        "swissup/theme-frontend-breeze-evolution": "^3.0.0-beta.1",
+        "swissup/module-breeze-integrations": "^1.3.6",
+        "swissup/module-breeze-theme-editor": "^1.0.0"
     }
 }
