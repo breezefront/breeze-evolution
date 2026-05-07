@@ -2,7 +2,7 @@
     "name": "swissup/breeze-evolution",
     "description": "Breeze Evolution Theme",
     "type": "metapackage",
-    "version": "3.0.0",
+    "version": "3.0.1",
     "license": "MIT",
     "require": {
         "swissup/theme-frontend-breeze-evolution": "^3.0.0",
